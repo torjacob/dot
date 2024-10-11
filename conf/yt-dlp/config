@@ -1,0 +1,1 @@
+--alias wav "-f bestaudio -x --audio-format wav --restrict-filenames {0}"
